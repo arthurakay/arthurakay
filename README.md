@@ -12,7 +12,7 @@ More recently I've developed an expertise in application security and penetratio
 
 <img src="https://www.akawebdesign.com/wp-content/uploads/2018/11/Cybersecurity-CompTIA-Security-Analytics-Professional-CSAP-logo-150x150.jpg" width="100" /><img src="https://www.akawebdesign.com/wp-content/uploads/2018/11/CySAce-certified-logo-150x150.png" width="100"/><img src="https://www.akawebdesign.com/wp-content/uploads/2018/11/SecurityPlus-Logo-Certified-CE-150x150.jpg" width="100" />
 
-<img src="https://www.akawebdesign.com/wp-content/uploads/2020/02/AWS-Certified_Cloud-Practitioner_512x512.bc006f14f986fa4f3ca238b0b62be458ce1fb5ce-150x150.png" />
+<img src="https://www.akawebdesign.com/wp-content/uploads/2020/02/AWS-Certified_Cloud-Practitioner_512x512.bc006f14f986fa4f3ca238b0b62be458ce1fb5ce-150x150.png" /><img src="https://www.akawebdesign.com/wp-content/uploads/2021/10/aws_security-300x300.png" />
 
 ### Contact Me
 
