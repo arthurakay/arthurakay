@@ -16,6 +16,6 @@ More recently I've developed an expertise in application security and penetratio
 
 ### Contact Me
 
-Want to chat? My DMs are open on Twitter, or you can checkout my personal website [www.akawebdesign.com](https://www.akawebdesign.com)
+Want to chat? My DMs are open on LinkedIn, or you can checkout my website [www.securewebsolutions.io](https://www.securewebsolutions.io)
 
 <a target="_blank" href="https://stackoverflow.com/users/551436/arthurakay"><img src="https://www.akawebdesign.com/wp-content/uploads/2016/06/socicon-stackoverflow.png" width="50" /></a> <a target="_blank" href="https://twitter.com/arthurakay"><img src="https://www.akawebdesign.com/wp-content/uploads/2016/06/socicon-twitter.png" width="50" /></a> <a target="_blank" href="https://www.linkedin.com/in/arthurakay"><img src="https://www.akawebdesign.com/wp-content/uploads/2016/06/socicon-linkedin.png" width="50" /></a> <a target="_blank" href="https://www.facebook.com/aKa-Web-Design-123784897644176"><img src="https://www.akawebdesign.com/wp-content/uploads/2017/03/facebook-logo.png" width="50" /></a> <a target="_blank" href="https://www.youtube.com/user/arthurakay"><img src="https://www.akawebdesign.com/wp-content/uploads/2016/06/socicon-youtube.png" width="50" /></a>
