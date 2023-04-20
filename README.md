@@ -1,4 +1,4 @@
-## Hi there, I'm [Art](https://www.akawebdesign.com)! 👋
+## Hi there, I'm Art! 👋
 
 I'm the CEO of [Secure Web Solutions LLC](https://www.securewebsolutions.io).
 
